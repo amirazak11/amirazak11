@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amira zakaria</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working on **marketly**
-
-- 📄 Know about my experiences [https://amirazak11.github.io/Myresume/](https://amirazak11.github.io/Myresume/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Amira zakaria</h1>
-<h3 align="center">frontend developer</h3>
-
 - 🔭 I’m currently working on **marketly Company**
 
 - 🌱 I’m currently learning **React native**
