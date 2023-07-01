@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amira zakaria</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working on **marketly Company**
-
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently working on **Library website**
 
 - 📫 How to reach me **amirazak1032000@gmail.com**
 
