@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amirazak1032000@gmail.com**
 
-- 📄 Know about my experiences [https://amirazak11.github.io/Myresume/](https://amirazak11.github.io/Myresume/)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1oewtBNZNLsUsx6JNlg2_BrVYEpnGiu3b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
