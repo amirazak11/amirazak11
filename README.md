@@ -82,12 +82,7 @@ and user-friendly web applications.
 
 - 🛒 E-commerce Applications
 - 📊 ERP & Admin Dashboards
-- 💳 Checkout & Payment Flows
-- 🔐 Authentication Systems
-- 📋 Multi-step Forms
-- ⭐ Rating & Review Systems
 - 📱 Fully Responsive Interfaces
-- 🌍 Multi-language / RTL Applications
 
 ---
 
